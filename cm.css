@@ -112,11 +112,11 @@
     }
 
 
-@media (max-width: 416px){
+@media (max-width: 414px){
         
 
         #bg{ 
-        background-size: 415x;
+        background-size: 414px;
     }
 
         .slideshow{
