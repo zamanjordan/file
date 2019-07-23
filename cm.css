@@ -6,7 +6,7 @@
     #bg{
         background-image: url(img/2.jpg);
         background-repeat: no-repeat;
-        background-size: 1380px;
+        background-size: cover;
 
     }
 
