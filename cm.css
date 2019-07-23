@@ -115,8 +115,8 @@
 @media (max-width: 414px){
         
 
-        #bg{ 
-        background-size: 414px;
+        #bg{
+        background-size: cover;
     }
 
         .slideshow{
